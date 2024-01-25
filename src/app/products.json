@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Cachorro Quente Vegano",
+    "brand": "Veg Delight",
+    "description": "Delicioso cachorro quente vegano com salsicha à base de plantas",
+    "price": 8.99,
+    "thumb": "https://www.sodexobeneficios.com.br/data/files/F9/E0/0A/3B/5F034710221782477618F9C2/xreceita-cachorro-quente-vegetariano.jpg.pagespeed.ic.WOY5zriJgk.jpg"
+  },
+  {
+    "id": 2,
+    "name": "X-Bacon",
+    "brand": "Burger Master",
+    "description": "Sanduíche saboroso com bacon crocante, carne e queijo",
+    "price": 12.99,
+    "thumb": "https://www.sabornamesa.com.br/media/k2/items/cache/5098e75e57e36807c173cb7490b1b0d2_XL.jpg"
+  },
+  {
+    "id": 3,
+    "name": "X-Coração",
+    "brand": "Sabor do Sul",
+    "description": "Sanduíche com coração de frango, queijo e molho especial",
+    "price": 10.99,
+    "thumb": "https://suamarca.chefware.com.br/68/0/0/x-coracao-normal.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pastel de Carne",
+    "brand": "Casa do Pastel",
+    "description": "Pastel recheado com carne moída e temperos exclusivos",
+    "price": 5.99,
+    "thumb": "https://blog.novasafra.com.br/wp-content/uploads/2016/05/4793norr.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lanche Vegetariano",
+    "brand": "Green Bites",
+    "description": "Opção vegetariana com legumes frescos e queijo",
+    "price": 9.99,
+    "thumb": "https://assets.unileversolutions.com/recipes-v2/35629.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cheeseburger",
+    "brand": "Classic Burgers",
+    "description": "Clássico cheeseburger com carne suculenta e queijo derretido",
+    "price": 11.99,
+    "thumb": "https://s2.glbimg.com/jJirZVMNK5ZsZ9UDLKQBqPu3iXk=/620x455/e.glbimg.com/og/ed/f/original/2020/10/20/hamburgueria_bob_beef_-_dia_das_criancas_-_foto_pfz_studio__norma_lima.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sanduíche Frango Grelhado",
+    "brand": "Grill Master",
+    "description": "Sanduíche com peito de frango grelhado e vegetais frescos",
+    "price": 10.49,
+    "thumb": "https://conteudo.imguol.com.br/90/2016/02/16/club-sandwich-com-peito-de-frango-1455631936708_1920x1080.jpg"
+  },
+  {
+    "id": 8,
+    "name": "X-Tudo",
+    "brand": "Big Bites",
+    "description": "O máximo em sabores, com carne, bacon, ovo e muito mais",
+    "price": 14.99,
+    "thumb": "https://editalconcursosbrasil.com.br/wp-content/uploads/2023/05/x-tudo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hot Dog Tradicional",
+    "brand": "Hot Dog Express",
+    "description": "Hot dog clássico com salsicha, molho e condimentos",
+    "price": 7.99,
+    "thumb": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-x-tudo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sanduíche de Peixe",
+    "brand": "Sea Delight",
+    "description": "Sanduíche de peixe fresco com molho especial",
+    "price": 13.49,
+    "thumb": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/3B63J4RSORIKJOQYVVYQYFK4IA.jpg"
+  }
+]
